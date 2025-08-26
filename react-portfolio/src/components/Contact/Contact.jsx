@@ -12,6 +12,8 @@ const Contact = () => {
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
 
+
+  
   // Handle form field changes
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -32,7 +34,7 @@ const Contact = () => {
       // Send the form using emailjs
       await emailjs.sendForm(
         'service_2d1kczj', // Replace with your service ID
-        'service_2d1kczj', // Replace with your template ID
+        'template_q04v2sd', // Replace with your template ID
         form.current, // Use the form reference
         'Kmp1W_xa03wQPjsA2' // Replace with your public API key
       );

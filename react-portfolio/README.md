@@ -1,6 +1,6 @@
-# Maddy's Portfolio Website 🚀
+# Heena's Portfolio Website 🚀
 
-A beautifully crafted portfolio website created as a gift for Mudassir Hussain Ansari (Maddy) by Ahtesham Salamat Ansari. This portfolio showcases Maddy's journey, projects, and technical expertise through an interactive and animated interface.
+A beautifully crafted portfolio website created by me. This portfolio showcases my journey, projects, and technical expertise through an interactive and animated interface.
 
 ## ⚡ Tech Stack
 
@@ -14,12 +14,12 @@ A beautifully crafted portfolio website created as a gift for Mudassir Hussain A
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://mudassirhussainansari.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://heenashaikh.netlify.app/)
 
 ## 📸 Website Preview
 
 ### Home Section
-![Home Section Preview](./src/assets/extras/maddy.png)
+![Home Section Preview](./src/assets/extras/heer.png)
 
 
 
@@ -42,27 +42,27 @@ A beautifully crafted portfolio website created as a gift for Mudassir Hussain A
 ## 🌟 Features
 
 ### 🏠 Home
-Step into Maddy's digital world with a dynamic landing page featuring smooth animations powered by Framer Motion. Get to know his expertise and passion for development through an engaging introduction that highlights his professional journey.
+Step into Heena's digital world with a dynamic landing page featuring smooth animations powered by Framer Motion. Get to know his expertise and passion for development through an engaging introduction that highlights his professional journey.
 
 ### 💼 Work Experience
-Explore Maddy's professional journey through an interactive timeline of projects and achievements. Each entry is beautifully animated and provides detailed insights into his contributions and the technologies utilized.
+Explore Heena's professional journey through an interactive timeline of projects and achievements. Each entry is beautifully animated and provides detailed insights into his contributions and the technologies utilized.
 
 ### 🎨 Portfolio
-Discover Maddy's projects through an animated gallery that showcases his technical versatility. Each project card reveals detailed information about:
+Discover Heena's projects through an animated gallery that showcases his technical versatility. Each project card reveals detailed information about:
 - Project objectives and challenges
 - Technical implementation details
 - Live demos and GitHub repositories
 - Key learnings and outcomes
 
 ### 📄 Resume
-Access Maddy's professional background through an interactive resume section featuring:
+Access Heena's professional background through an interactive resume section featuring:
 - Downloadable PDF format
 - Smooth rendering with react-pdf
 - Responsive design for all devices
 - Detailed skill breakdown and certifications
 
 ### 📬 Contact
-Connect with Maddy through a modern, responsive contact form. The section includes:
+Connect with Heena through a modern, responsive contact form. The section includes:
 - Direct email integration
 - Social media links
 - Professional networks
@@ -115,24 +115,17 @@ Implemented with industry best practices:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 🤝 Connect With Maddy
+## 🤝 Connect With Heena
 
-Feel free to reach out and connect with Maddy on:
+Feel free to reach out and connect with Heena on:
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mudassirhussainansari" target="_blank">
+  <a href="https://www.linkedin.com/in/heena-shaikh-556731353/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/maddy046" target="_blank">
+  <a href="https://github.com/heena2004shaikh" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/maddy01432" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </div>
 
 ---
-
-<div align="center">
-  Made with ❤️ and ☕ by Ahtesham Salamat Ansari
-</div>

@@ -6,13 +6,21 @@ import blog1 from "../assets/projects/blog1.webp";
 import blog2 from "../assets/projects/blog2.webp";
 
 
-
-export const HERO_CONTENT = `With a knack for both the front end and back end, I weave seamless digital experiences from pixel-perfect design to robust server-side logic. But I don’t just stop at building great software — I turn data into actionable insights that drive success. Through innovative lead generation strategies and meticulous data analysis, I ensure businesses not only reach their audience but captivate them. Let’s transform potential into performance!`;
+ 
+export const HERO_CONTENT = ` Dynamic and results-driven engineering graduate,passionate for innovation and problem-solving. Armed with a strong technical foundation and hands-on project experience.Ready to bring fresh ideas,fast learning, and full dedication to the professional world. Eager to contribute to impactful projects and grow with a forward-thinking team.`;
 export const ABOUT_TEXT = `Whether you're looking to brainstorm, collaborate, or get technical advice, I’m here to help your projects reach new heights. Let's connect and make something extraordinary happen!`;
 export const iconClass = ["h-12 w-12 hover:scale-125 hover:cursor-pointer transition-all ease-in-out duration:900"];
 export const bggradient = ["absolute bottom-0 left-0 right-0 top-0 bg-[linear-gradient(to_right,#4f4f4f2e_1px,transparent_1px),linear-gradient(to_bottom,#4f4f4f2e_1px,transparent_1px)] bg-[size:14px_24px] [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,#000_70%,transparent_100%)]"]
 export const EXPERIENCES = [
   
+
+  {
+    year: "2025 - Present",
+    role: "Front-End Developer",
+    company: "CallFairy",
+    description: `I am currently working as a Frontend Developer at Callfary, where I specialize in building modern, responsive, and user-friendly web applications using React and Tailwind CSS. My role involves translating design concepts into interactive interfaces, optimizing performance, and ensuring cross-browser compatibility. At Callfary, I collaborate closely with the team to create scalable solutions that align with business goals while delivering a seamless user experience. I stay updated with the latest frontend technologies and best practices to continuously enhance the quality of our products.`,
+    technologies: ["Redux", "Tailwind Css", "MS SQL Server", "React","Python"],
+  },
   {
     year: "2025 - 2025",
     role: "Software Developer Intern",
@@ -27,13 +35,7 @@ export const EXPERIENCES = [
     description: `Drive business growth through innovative lead generation, engaging in inbound & outbound calling, LinkedIn lead generation, and crafting compelling cold emails. Build strong customer relationships, manage sales pipelines, and collaborate with teams to exceed sales targets.`,
     technologies: ["Linkedin Sales Navigator", "Cold Calling", "apollo.io", "Zoominfo"],
   },
-  {
-    year: "2021 - 2022",
-    role: "Web Developer",
-    company: "Free Lencer",
-    description: `I am working as a Freelance Web Developer, where I design and develop responsive and visually appealing websites tailored to client requirements. I work independently with clients to understand their business needs and deliver customized web solutions using HTML, CSS, JavaScript, React, and Tailwind CSS. My projects range from personal portfolios and business landing pages to fully functional dynamic websites. I handle the complete development process—from wireframing and UI design to deployment and maintenance.I stay up to date with modern web trends and continuously improve my skills to offer the best solutions to clients.`,
-    technologies: ["Redux", "Tailwind Css", "MS SQL Server", "React"],
-  },
+  
 
 
 ];
@@ -66,6 +68,7 @@ export const CERTIFICATIONS = [
     university: "Seven Mentor, Pune",
     description: `Gained expertise in both front-end and back-end development, including technologies such as HTML, CSS, JavaScript, and Node.js.Proficient in creating dynamic web applications, managing databases, and ensuring seamless user experiences.`,
   },
+  
 ]
 
 export const PROJECTS = [
@@ -75,7 +78,7 @@ export const PROJECTS = [
     description:
       "Taking quizzes should be fun and insightful — not boring or unstructured. That’s why I built a full-stack Quiz Application with user authentication, role-based access (Admin & User), test creation, submission tracking, and real-time results. This project combines modern frontend technologies with a robust Java backend to deliver a seamless quiz experience.",
     technologies: ["React.js", "TailwindCSS", "Spring Boot", "JWT", "MySQL", "Spring Security", "React Router"],
-    link: "https://github.com/maddy046/CodeClauseInternship_PasswordGenerator"
+    link: "https://github.com/heena2004shaikh/QUIZ_APP_TASK"
   },
  
   {
@@ -84,15 +87,15 @@ export const PROJECTS = [
     description:
       "Planning the perfect trip should be exciting — not overwhelming. That’s why I built an intelligent and user-friendly AI Trip Planner that generates personalized itineraries with the help of Google Gemini AI. This project combines powerful tools and modern UI frameworks to deliver seamless travel planning right in your browser.",
     technologies: ["React.js", " Tailwind CSS", "Firebase", "Gemini AI", "React Router"],
-    link: "https://github.com/maddy046/PortfolioWebsite"
+    link: "https://github.com/heena2004shaikh/AI_Trip_Planner_"
   },
   {
-    title: "E-Learning Website",  
+    title: "E-commerce Website",  
     image: project3,
     description:
-      "Built an e-learning platform using HTML, CSS, and JavaScript for the front end, and integrated with backend technologies to provide interactive courses and assessments.",
+      "A dynamic e-commerce food website enabling users to browse,order, and manage meals with a seamless online shopping experience.Technology using Html,Css,ReactJS,TailwindCSS,MySQL",
     technologies: ["ReactJS", "Springboot", "HTML5", "mySQL"],
-    link:"https://github.com/maddy046/CourseWebsite"
+    link:"https://github.com/heena2004shaikh/Fresh-Crat"
   },
 
 
@@ -118,17 +121,17 @@ export const SOCIAL_MEDIA = [
   {
     name: "Instagram",
     icon: "fab fa-instagram",
-    url: "https://www.instagram.com/maddy01432",
+    url: "",
   },
   {
     name: "Twitter",
     icon: "fab fa-twitter",
-    url: "https://www.twitter.com/your-username",
+    url: "",
   },
   {
     name: "Facebook",
     icon: "fab fa-facebook-f",
-    url: "https://www.facebook.com/profile.php?id=100007339538234",
+    url: "",
   },
 ]
 
